@@ -1,10 +1,10 @@
 # Dashboard PC
 
-[![CI](https://github.com/JuxnFoAI/DASHBOARD-PC/actions/workflows/ci.yml/badge.svg)](https://github.com/JuxnFoAI/DASHBOARD-PC/actions/workflows/ci.yml)
+[![CI](https://github.com/JuxnFoAI/dashboard-de-tareas/actions/workflows/ci.yml/badge.svg)](https://github.com/JuxnFoAI/dashboard-de-tareas/actions/workflows/ci.yml)
 
 Tablero de tareas en el navegador. Los datos se quedan en este equipo. Con clave, van cifrados. Sin clave, quedan en claro en este navegador.
 
-Demo: [juxnfoai.github.io/DASHBOARD-PC](https://juxnfoai.github.io/DASHBOARD-PC/). Es la misma app: lo que escribas ahí se queda en tu navegador.
+Demo: [juxnfoai.github.io/dashboard-de-tareas](https://juxnfoai.github.io/dashboard-de-tareas/). Es la misma app: lo que escribas ahí se queda en tu navegador.
 
 ## Pantallas
 
